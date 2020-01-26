@@ -4,9 +4,9 @@
 
 package cis.pkg3515.assignment.pkg0;
 
-// Should probably make this an abstract class
+// No instances of Shape should be made
 
-public class Shape {
+abstract public class Shape {
     private String name;
     
     public Shape (String name) {
