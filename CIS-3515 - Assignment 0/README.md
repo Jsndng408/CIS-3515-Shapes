@@ -12,5 +12,6 @@ About Shapes:
   * Circle: _Radius_ (a double)
   * Triangle: 3 _Sides_ (all are doubles)
   * Equilateral Triangle: 1 _Side_ (a double)
-* A printDimension() method that prints out the inputted dimensions for the Shape (which overrides the printDimension() method in Shape)
-* 
+* A printDimension() method that prints out the inputted dimensions for the Shape (which overrides the printDimension() method in Shape).
+* Negative Number Input and 0 as an Input are set to 1 by default.
+* Keep in mind that certain side length combinations for Triangle (not Equilateral) cannot exist.
