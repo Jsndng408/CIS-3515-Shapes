@@ -4,6 +4,8 @@
 
 package cis.pkg3515.assignment.pkg0;
 
+// Should probably make this an abstract class
+
 public class Shape {
     private String name;
     
