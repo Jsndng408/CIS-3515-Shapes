@@ -4,6 +4,8 @@
 
 package cis.pkg3515.assignment.pkg0;
 
+import cis.pkg3515.assignment.pkg0.shape.Shape;
+
 public class Triangle extends Shape {
     private String name;
     private double side1;
